@@ -4,4 +4,4 @@ Test de création de fichier de modifications, ajout au commit et envoie sur Git
 test modification depuis github et recup sur ma machine
 
 
-Motif depuis mon ordi
+Modif depuis mon ordi et depuis github
